@@ -7,6 +7,7 @@ author: "Sebastien Picard"
 I am a first-year Mathematics student at the University of Toronto, St. George Campus. My research interests include: 
 
 - Algebraic number theory
+- Category Theory
 - Elliptic curves
 - Game theory
 - Holomorphic dynamics
