@@ -6,15 +6,15 @@ author: "Sebastien Picard"
 
 I am a first-year Mathematics student at the University of Toronto, St. George Campus. My research interests include: 
 
-- Algebraic number theory
+- Algebraic Number Theory
 - Category Theory
-- Elliptic curves
-- Game theory
-- Holomorphic dynamics
-- Low-dimensional topology
-- Noncommutative algebra
-- Olympiad geometry
-- Quasiperiodic tessellation
+- Combinatorics
+- Differential Geometry
+- Ergodic Theory
+- Harmonic Analysis
+- Low-Dimensional Topology
+- Random Matrix Theory
+- Representation Theory
 
 Among other areas.
 
