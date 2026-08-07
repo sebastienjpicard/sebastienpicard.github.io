@@ -4,7 +4,7 @@ date: 2025-01-01
 author: "Sebastien Picard"
 ---
 
-I am a first-year Mathematics student at the University of Toronto, St. George Campus. My research interests include: 
+I am a second-year Mathematics student at the University of Toronto, St. George. My research interests include: 
 
 - Algebraic Number Theory
 - Category Theory
